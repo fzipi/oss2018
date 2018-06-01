@@ -25,7 +25,7 @@ Using the same model as the past OWASP Summits in Portugal and the UK, this 5 da
 
 If you care about Application Security and want to collaborate with the key players in this industry, this is the event to be.
 
-The Summit will occur in England, 4-8 June 2018, with an entry ticket of 1400 EUR + VAT (covering stay + accommodation + event fee).
+The Summit will occur in England, 4-8 June 2018, with an entry ticket of 1500 pounds + VAT (covering stay + accommodation + event fee).
 
 If you want to be involved, add you name to the [participants](content/participant) page.
 
